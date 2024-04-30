@@ -2,3 +2,4 @@
 
 * [🌇 Home](README.md)
   * [🐣 Getting Started](home/getting-started.md)
+  * [Page](readme/page.md)
