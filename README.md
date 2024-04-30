@@ -38,3 +38,9 @@ For those who crave entrepreneurship, you can even start your own player-run bus
 Experience the authentic atmosphere of the 1980's with custom clothing, vehicles, and other content. Our balanced economy provides a long-term, engaging roleplaying experience.
 
 Join our welcoming community and be a part of something truly special on Boardwalk RP.
+
+
+
+Quick links:\
+\- [Requirements](getting-started/getting-started.md): For those new to Fivem RP\
+\- [Roleplay Guidelines](getting-started/roleplay-guidelines.md): If you're curious about our rules
