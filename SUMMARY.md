@@ -8,6 +8,6 @@
 * [📜 Roleplay guidelines](getting-started/roleplay-guidelines.md)
 * [Page 2](getting-started/page-2.md)
 
-## Group 1
+## Basics
 
-* [Page 1](group-1/page-1.md)
+* [Huds, Menus](basics/huds-menus.md)
